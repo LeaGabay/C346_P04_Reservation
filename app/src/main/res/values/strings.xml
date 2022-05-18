@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="companyName">Leaf Co.</string>
+    <string name="reserve_header">Reservation Page</string>
+    <string name="makeReservation">Make Reservation</string>
+    <string name="details">Input Details</string>
+    <string name="name_label">Name:</string>
+    <string name="phone_label">Phone:</string>
+    <string name="paxName">No. of Pax:</string>
+    <string name="smoking_check">Check if you want Non-Smoking Area</string>
+    <string name="confirmButton">Confirm</string>
+    <string name="resetButton">Reset</string>
+</resources>
